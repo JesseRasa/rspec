@@ -14,6 +14,9 @@ module Spec
 
         def dump_summary(duration, example_count, failure_count, pending_count)
         end
+
+        def dump_pending
+        end
       end
     end
   end
